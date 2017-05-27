@@ -1,2 +1,2 @@
 # lambdachatbot
-Chatbot Build using Amazon Lex and Lambda
+Chatbot Built using Amazon Lex and Lambda
